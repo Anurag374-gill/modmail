@@ -1,5 +1,5 @@
 # Bot's token
-token = ""
+token = " NjgwNjkwMDgzOTIxMzk1NzEy.XmZgCA._0OlqNumOsN46TH3yVsy1hbOE8o "
 
 # DiscordBotList token
 dbl_token = ""
@@ -31,7 +31,7 @@ activity = [
 ]
 
 # The main bot owner
-owner = 000000000000000000
+owner = 522728463413542925
 
 # Bot owners that have access to owner commands
 owners = [
@@ -57,17 +57,17 @@ initial_extensions = [
 ]
 
 # Channels to send logs
-join_channel = 000000000000000000
-event_channel = 000000000000000000
-admin_channel = 000000000000000000
+join_channel = 642365563531689987
+event_channel = 642367503330312193
+admin_channel = 686565276430368806
 
 # This is where patron roles are at
-main_server = 000000000000000000
+main_server = 642365562999144458
 
 # Patron roles for premium servers
-premium1 = 000000000000000000
-premium3 = 000000000000000000
-premium5 = 000000000000000000
+premium1 = 642623372311789569
+premium3 = 642624053127151616
+premium5 = 681114730311843841
 
 # The colour used in embeds
 primary_colour = 0x1E90FF
